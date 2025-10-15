@@ -1,5 +1,3 @@
-# Sales-Analysis-Excel
-
 # Sales-Analysis (Excel)
 
 ## Problem Statement
