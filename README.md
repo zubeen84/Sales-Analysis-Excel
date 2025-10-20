@@ -13,7 +13,7 @@ This project focuses on the following business insights:
 ## Solution
 A comprehensive sales performance analysis built in Microsoft Excel, featuring an interactive dashboard designed for quick insights and executive reporting. The dashboard visualises sales trends across regions, products, and time periods.
 
-### Revenue Drivers
+### Identified Revenue Drivers
 
 - Top Products: Quix Gift, Magnum Set, Delores Gift
 - Top Category: Colors (dominates revenue share)
@@ -24,7 +24,7 @@ A comprehensive sales performance analysis built in Microsoft Excel, featuring a
 - Seasonality: Revenue peaks in December and February; dips in March, May, and June
 - Order Time: Stable demand across hours
 
-### Recommendations for business growth
+### Targeted Recommendations for business growth
 - Prioritize inventory for Colors category and Holi-related products
 - Target Imphal and Handwar with regional campaigns
 - Investigate spring revenue dips to design seasonal promotions
